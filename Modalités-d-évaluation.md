@@ -14,6 +14,8 @@ L’évaluation repose pour les deux tiers sur un projet de création de dashboa
 
 Pour les slides faites léger : 3/ 4 diapos suffisent, pour vous présenter, présenter le contexte/sujet, la techno utilisée et la conclusion, normalement l’essentiel de la présentation reposera sur le dashboard (c’est là le but de l’exercice).
 
+Le dashboard devra intégrer des blocs de texte présentant les données, la méthodologie, le contexte (section « about ») et objectif du dashboard, des « rapports » ou interprétations (cf. les dashboard donnés en exemple, notamment https://tracking-dashboard-app.herokuapp.com/dashboard qui est un bon exemple).
+
 Le dashboard doit démontrer votre maîtrise technique de l’outil choisi et le respect des fondamentaux et bonnes pratiques de la dataviz. Nous vous conseillons d’utiliser Dash/Plotly vu en cours, mais vous pouvez montrer vos compétences dans une autre techno (Javascript, Streamlit…) après accord de l’enseignant. Outils no-code/lowcode interdits. Excel/PowerBI, etc. également.
 
 Les critères d’évaluation :
