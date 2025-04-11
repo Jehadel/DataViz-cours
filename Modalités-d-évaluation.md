@@ -10,7 +10,7 @@ Dans ce module vous avez appris ou revu :
 * les bases de la cartographie (choroplèthes, projections, cartopy, folium)
 * la réalisation d’un dashboard avec Dash/Plotly
 
-L’évaluation repose pour les deux tiers sur un projet de création de dashboard à remettre et présenter le mardi 29 avril (20 mn de présentation + questions, à remettre dépôt du code + doc présentation/slides).
+L’évaluation repose pour les deux tiers sur un projet de création de dashboard à remettre et présenter le mardi 29 avril (20 mn de présentation + questions, à remettre dépôt du code + doc présentation/slides). Chaque projet est mené par une équipe de 2 personnes, possible d’être solo (il ne faut pas plus de 7 groupes en tout).
 
 Pour les slides faites léger : 3/ 4 diapos suffisent, pour vous présenter, présenter le contexte/sujet, la techno utilisée et la conclusion, normalement l’essentiel de la présentation reposera sur le dashboard (c’est là le but de l’exercice).
 
